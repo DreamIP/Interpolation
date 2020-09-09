@@ -1,0 +1,17 @@
+
+# Alternatives to bicubic interpolation 
+
+Add the desired component in the file "interpolation.vhd" to define the kernel approximation. 
+
+Components list:
+        
+- two_cubic_linear
+- four_linear_cubic
+- three_cubic_two_linear
+- three_cubic_two_modified_linear
+- two_piece_function
+- four_piece_function
+- six_piece_function
+        
+        
+        
