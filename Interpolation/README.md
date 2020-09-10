@@ -1,7 +1,7 @@
 
 # Alternatives to bicubic interpolation 
 
-Add the desired component in the file "interpolation.vhd" to define the kernel approximation. 
+Add the desired component in the file "interpolation.vhd" to define the interpolation algorithm. 
 
 Components list:
         
