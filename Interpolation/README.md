@@ -1,7 +1,7 @@
 
 # Alternatives to bicubic interpolation 
 
-Add the desired component in the file "interpolation.vhd" to define the interpolation algorithm. 
+Please add the desired component in the file "interpolation.vhd" to define the interpolation algorithm. 
 
 Components list:
         
