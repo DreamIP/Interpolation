@@ -1,5 +1,5 @@
 # Interpolation
-In this repository, we provide a hardware implementation of a set of algorithms proposed as alternatives to bi-cubic interpolation. The architecture of each algorithm is detailed in [1]. 
+In this repository, we provide hardware implementations of a set of algorithms proposed as alternatives to bi-cubic interpolation. The architecture of each algorithm is detailed in [1]. 
 
 If you find these implementations useful, please cite the reference [1]. Also, make sure to adhere to the licensing terms of the authors.
 
