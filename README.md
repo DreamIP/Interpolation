@@ -5,7 +5,7 @@ If you find these implementations useful, please cite the reference [1]. Also, m
 
 The obtained results of down-scaling then up-scaling a reference image by a factor of 3.25 using the proposed algorithms in [1]
 
-|Reference image  | ![](./Error_maps/im_ref.png =100*20)  |
+|Reference image  | ![](./Error_maps/im_ref.png?cropResize=50,50)  |
 |Reference image   | <img src="Error_maps/im_ref.png" width="400">   |
 |Down-scaled image   | <img src="Error_maps/im_down.png" width="400">  |
 |Up-scaled image (bi-cubic)   | <img src="Error_maps/im_bicubic.png" width="400">  |
