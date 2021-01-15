@@ -5,10 +5,9 @@ If you find these implementations useful, please cite the reference [1]. Also, m
 
 The obtained results of down-scaling then up-scaling a reference image by a factor of 3.25 using the proposed algorithms in [1]
 
-|Reference image   | <img src="Error_maps/im_ref.png" width="300">   |
-|Reference image   | ![](Error_maps/im_ref.png){:height="50%" width="50%"}   |
-|Down-scaled image   | ![](Error_maps/im_down.png)   |
-|Up-scaled image (bi-cubic)   | ![](Error_maps/im_bicubic.png)   |
+|Reference image   | <img src="Error_maps/im_ref.png" width="400">   |
+|Down-scaled image   | <img src="Error_maps/im_down.png" width="400">  |
+|Up-scaled image (bi-cubic)   | <img src="Error_maps/im_bicubic" width="400">  |
 |:----------:|:---------------------------------------------:|
 |Error (Bi-cubic), PSNR = 24.057  | ![](Error_maps/err_bicubic.png)  |
 |Error (2-piecewise), PSNR = 21.426  | ![](Error_maps/err_2piecewise.png)  |
