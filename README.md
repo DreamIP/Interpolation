@@ -2,7 +2,7 @@
 In this repository, we provide hardware implementations of a set of algorithms proposed as alternatives to bi-cubic interpolation. The architecture of each algorithm is detailed in [1]. 
 
 If you find these implementations useful, please cite the reference [1]. Also, make sure to adhere to the licensing terms of the authors.
-
+## Results 
 The obtained results of down-scaling then up-scaling a reference image by a factor of 3.25 using the proposed algorithms in [1]
 
 |Reference image  | ![](Error_maps/im_ref.png)  |Down-scaled image   | ![](Error_maps/im_down.png)  |
